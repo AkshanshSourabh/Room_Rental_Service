@@ -69,7 +69,7 @@ public class Main {
                     e.printStackTrace();
                 }
             } else if (choice == 3) {
-                System.out.println("THANK YOU!!!");
+                System.out.println("THANK YOU FOR USING OUR SERVICES");
                 System.out.println("----------------------------------------------------");
                 exit(0);
             }
